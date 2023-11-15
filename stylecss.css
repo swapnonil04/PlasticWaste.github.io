@@ -297,3 +297,13 @@
     background-size: cover;
     padding-top:20px;
   }
+#bottleneck{
+  align-items:center;
+  
+}
+#header2{
+background-color: #2e5984;
+color: white;
+text-align: center;
+padding: 20px;
+}
